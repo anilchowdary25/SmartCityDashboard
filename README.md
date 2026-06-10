@@ -5,13 +5,6 @@ Supported by IBM Client Innovation Center Germany · Otto von Guericke Universit
 
 ---
 
-## Live Demo
-
-> Deploy to GitHub Pages and paste your URL here  
-> Run locally: `php -S localhost:8000` then open `http://localhost:8000`
-
----
-
 ## What the Dashboard Does
 
 A single-page dashboard that brings together public data from Magdeburg, the federal government, and open APIs into one place. Citizens, city planners, and tourists can explore six topic areas using an interactive sidebar.
@@ -32,7 +25,6 @@ A single-page dashboard that brings together public data from Magdeburg, the fed
 smart-city-magdeburg/
 ├── index.php                        ← Main dashboard (all panels in one file)
 ├── dashboard.css                    ← Base styles from the teammate's layout
-├── mobility_transit_green_white.html ← Standalone Mobility & Transit panel
 └── api/
     ├── config.php                   ← Database connection
     ├── population.php               ← Population data by district and age
@@ -52,9 +44,11 @@ smart-city-magdeburg/
 
 Open Xampp Control panel, Start Apache and Mysql Service.
 
+Load all the CSV files in the data/home folder into mysql.
+
 ```bash
 # Clone or unzip the project
-git clone https://github.com/SmartCityMagdeburg2026/team-13.git
+git clone https://github.com/anilchowdary25/SmartCityDashboard.git
 
 # Open in browser
 http://localhost/dashboard
