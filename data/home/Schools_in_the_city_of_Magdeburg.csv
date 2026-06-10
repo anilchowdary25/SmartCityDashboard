@@ -1,0 +1,1343 @@
+Year,School_Name,School_Type,School_Category,Ownership_Type,Classes,Students
+2023,Hegelstr.,Primary School,General Education School System,Municipal,9,167
+2023,Im Nordpark,Primary School,General Education School System,Municipal,12,270
+2023,Am Umfassungsweg,Primary School,General Education School System,Municipal,9,176
+2023,An der Klosterwuhne,Primary School,General Education School System,Municipal,15,319
+2023,Am Vogelgesang,Primary School,General Education School System,Municipal,11,288
+2023,Am Kannenstieg,Primary School,General Education School System,Municipal,13,294
+2023,Kritzmannstraße,Primary School,General Education School System,Municipal,13,287
+2023,Nordwest,Primary School,General Education School System,Municipal,8,157
+2023,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,180
+2023,Am Fliederhof,Primary School,General Education School System,Municipal,10,227
+2023,Am Grenzweg,Primary School,General Education School System,Municipal,15,312
+2023,Am Glacis,Primary School,General Education School System,Municipal,8,184
+2023,Am Westring,Primary School,General Education School System,Municipal,11,230
+2023,Diesdorf,Primary School,General Education School System,Municipal,15,338
+2023,Friedenshöhe,Primary School,General Education School System,Municipal,11,224
+2023,Ottersleben,Primary School,General Education School System,Municipal,20,442
+2023,Lindenhof,Primary School,General Education School System,Municipal,16,366
+2023,Am Hopfengarten,Primary School,General Education School System,Municipal,8,179
+2023,Buckau,Primary School,General Education School System,Municipal,8,157
+2023,Salbke,Primary School,General Education School System,Municipal,10,202
+2023,Westerhüsen,Primary School,General Education School System,Municipal,8,151
+2023,Am Elbdamm,Primary School,General Education School System,Municipal,8,142
+2023,Am Brückfeld,Primary School,General Education School System,Municipal,10,217
+2023,Am Pechauer Platz,Primary School,General Education School System,Municipal,13,274
+2023,Rothensee,Primary School,General Education School System,Municipal,7,130
+2023,St. Mechthild,Primary School,General Education School System,Independent/Private,8,181
+2023,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,167
+2023,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,12,260
+2023,G.W.Leibniz,Community School,General Education School System,Municipal,17,416
+2023,W.Weitling,Community School,General Education School System,Municipal,18,432
+2023,O.Linke,Community School,General Education School System,Municipal,14,373
+2023,J.W.v.Goethe,Community School,General Education School System,Municipal,20,470
+2023,E.Wille,Community School,General Education School System,Municipal,16,409
+2023,A.W.Francke,Community School,General Education School System,Municipal,18,478
+2023,H.Heine,Community School,General Education School System,Municipal,13,301
+2023,Th.Mann,Community School,General Education School System,Municipal,12,322
+2023,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,307
+2023,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,921
+2023,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,840
+2023,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,43,1038
+2023,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,574
+2023,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,26,523
+2023,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,905
+2023,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,847
+2023,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,37,914
+2023,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,47,1119
+2023,Comenius,Special Needs School,General Education School System,Municipal,17,191
+2023,Salzmann,Special Needs School,General Education School System,Municipal,16,176
+2023,Kästner,Special Needs School,General Education School System,Municipal,15,173
+2023,Anne Frank,Special Needs School,General Education School System,Municipal,10,117
+2023,Regenbogen,Special Needs School,General Education School System,Municipal,14,124
+2023,Am Wasserfall,Special Needs School,General Education School System,Municipal,15,123
+2023,H. Kükelhaus,Special Needs School,General Education School System,Municipal,12,105
+2023,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,120,2522
+2023,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,42,621
+2023,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,89,1571
+2023,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,19,395
+2023,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,22,333
+2023,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,45,702
+2023,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,3,38
+2023,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,50,919
+2023,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,12,298
+2023,Leipziger Straße,Primary School,General Education School System,Municipal,13,272
+2023,Freie Waldorfschule,Primary School,General Education School System,Independent/Private,8,188
+2023,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,17,404
+2023,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,2,34
+2023,Domgrundschule,Primary School,General Education School System,Independent/Private,8,177
+2023,Neue Schule,New School,General Education School System,Municipal,13,281
+2023,Stadtfeld,Primary School,General Education School System,Municipal,15,308
+2023,Th. Müntzer,Community School,General Education School System,Municipal,14,341
+2023,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,865
+2023,Sudenburg,Primary School,General Education School System,Municipal,15,334
+2023,Makarenkoschule1,Special Needs School,General Education School System,Municipal,16,128
+2023,Weitlingstraße,Primary School,General Education School System,Municipal,6,133
+2023,Annastraße,Primary School,General Education School System,Municipal,12,242
+2023,Schmeilstraße,Primary School,General Education School System,Municipal,3,63
+2023,Stiftungsgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,18,452
+2023,Moldenstraße,Primary School,General Education School System,Municipal,10,208
+2023,B.-Brecht-Straße,Primary School,General Education School System,Municipal,11,240
+2023,Am Sternsee,Special Needs School,General Education School System,Municipal,21,156
+2023,"BbS ""Dr. Otto Schlein"" Pflegeschule",Vocational School (Nursing),Vocational School System,Municipal,33,26
+2023,Freie Schule,Primary School,General Education School System,Independent/Private,4,98
+2023,Sek. LebenLernen,Secondary School,General Education School System,Independent/Private,9,182
+2023,Hand in Hand,Special Needs School,General Education School System,Municipal,12,84
+2023,Abendgymnasium (Standort MD und Halle),Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,6,52
+2023,Kolleg(Standort MD und Halle),Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,14,192
+2022,Hegelstr.,Primary School,General Education School System,Municipal,9,148
+2022,Im Nordpark,Primary School,General Education School System,Municipal,13,289
+2022,Am Umfassungsweg,Primary School,General Education School System,Municipal,7,152
+2022,An der Klosterwuhne,Primary School,General Education School System,Municipal,14,312
+2022,Am Vogelgesang,Primary School,General Education School System,Municipal,11,278
+2022,Am Kannenstieg,Primary School,General Education School System,Municipal,13,287
+2022,Kritzmannstraße,Primary School,General Education School System,Municipal,13,281
+2022,Nordwest,Primary School,General Education School System,Municipal,8,161
+2022,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,185
+2022,Am Fliederhof,Primary School,General Education School System,Municipal,10,228
+2022,Am Grenzweg,Primary School,General Education School System,Municipal,15,316
+2022,Am Glacis,Primary School,General Education School System,Municipal,8,182
+2022,Am Westring,Primary School,General Education School System,Municipal,9,192
+2022,Diesdorf,Primary School,General Education School System,Municipal,14,292
+2022,Friedenshöhe,Primary School,General Education School System,Municipal,11,226
+2022,Ottersleben,Primary School,General Education School System,Municipal,19,451
+2022,Lindenhof,Primary School,General Education School System,Municipal,17,365
+2022,Am Hopfengarten,Primary School,General Education School System,Municipal,8,183
+2022,Buckau,Primary School,General Education School System,Municipal,7,152
+2022,Salbke,Primary School,General Education School System,Municipal,11,222
+2022,Westerhüsen,Primary School,General Education School System,Municipal,8,160
+2022,Am Elbdamm,Primary School,General Education School System,Municipal,8,158
+2022,Am Brückfeld,Primary School,General Education School System,Municipal,9,199
+2022,Am Pechauer Platz,Primary School,General Education School System,Municipal,12,267
+2022,Rothensee,Primary School,General Education School System,Municipal,6,122
+2022,St. Mechthild,Primary School,General Education School System,Independent/Private,8,187
+2022,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,167
+2022,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,12,270
+2022,G.W.Leibniz,Community School,General Education School System,Municipal,16,375
+2022,W.Weitling,Community School,General Education School System,Municipal,17,406
+2022,O.Linke,Community School,General Education School System,Municipal,14,343
+2022,J.W.v.Goethe,Community School,General Education School System,Municipal,19,380
+2022,E.Wille,Community School,General Education School System,Municipal,15,373
+2022,A.W.Francke,Community School,General Education School System,Municipal,18,439
+2022,H.Heine,Community School,General Education School System,Municipal,12,298
+2022,Th.Mann,Community School,General Education School System,Municipal,12,303
+2022,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,303
+2022,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,40,1001
+2022,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,35,816
+2022,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,42,1020
+2022,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,573
+2022,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,26,541
+2022,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,914
+2022,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,859
+2022,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,38,867
+2022,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,47,1115
+2022,Comenius,Special Needs School,General Education School System,Municipal,16,171
+2022,Salzmann,Special Needs School,General Education School System,Municipal,16,184
+2022,Kästner,Special Needs School,General Education School System,Municipal,15,157
+2022,Anne Frank,Special Needs School,General Education School System,Municipal,10,123
+2022,Regenbogen,Special Needs School,General Education School System,Municipal,14,121
+2022,Am Wasserfall,Special Needs School,General Education School System,Municipal,15,121
+2022,H. Kükelhaus,Special Needs School,General Education School System,Municipal,13,105
+2022,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,119,2479
+2022,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,43,639
+2022,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,88,1574
+2022,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,20,427
+2022,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,26,387
+2022,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,44,765
+2022,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,1,20
+2022,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,50,945
+2022,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,11,273
+2022,Leipziger Straße,Primary School,General Education School System,Municipal,13,274
+2022,Freie Waldorfschule,Primary School,General Education School System,Independent/Private,8,191
+2022,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,17,403
+2022,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,24
+2022,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,6,110
+2022,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,2,60
+2022,Domgrundschule,Primary School,General Education School System,Independent/Private,8,178
+2022,Neue Schule,New School,General Education School System,Municipal,12,267
+2022,Stadtfeld,Primary School,General Education School System,Municipal,15,303
+2022,Th. Müntzer,Community School,General Education School System,Municipal,15,300
+2022,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,35,790
+2022,Sudenburg,Primary School,General Education School System,Municipal,15,334
+2022,Makarenkoschule1,Special Needs School,General Education School System,Municipal,16,128
+2022,Weitlingstraße,Primary School,General Education School System,Municipal,6,131
+2022,Annastraße,Primary School,General Education School System,Municipal,11,246
+2022,Schmeilstraße,Primary School,General Education School System,Municipal,4,93
+2022,Stiftungsgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,15,368
+2022,Moldenstraße,Primary School,General Education School System,Municipal,9,164
+2022,B.-Brecht-Straße,Primary School,General Education School System,Municipal,10,217
+2022,Am Sternsee,Special Needs School,General Education School System,Municipal,22,155
+2022,"BbS ""Dr. Otto Schlein"" Pflegeschule",Vocational School (Nursing),Vocational School System,Municipal,49,35
+2022,Freie Schule,Primary School,General Education School System,Independent/Private,5,98
+2022,Sek. LebenLernen,Secondary School,General Education School System,Independent/Private,8,172
+2022,Hand in Hand,Special Needs School,General Education School System,Municipal,10,68
+2021,Hegelstr.,Primary School,General Education School System,Municipal,8,136
+2021,Im Nordpark,Primary School,General Education School System,Municipal,14,295
+2021,Am Umfassungsweg,Primary School,General Education School System,Municipal,8,168
+2021,An der Klosterwuhne,Primary School,General Education School System,Municipal,15,327
+2021,Am Vogelgesang,Primary School,General Education School System,Municipal,13,262
+2021,Am Kannenstieg,Primary School,General Education School System,Municipal,13,259
+2021,Kritzmannstraße,Primary School,General Education School System,Municipal,14,271
+2021,Nordwest,Primary School,General Education School System,Municipal,8,171
+2021,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,174
+2021,Am Fliederhof,Primary School,General Education School System,Municipal,10,198
+2021,Am Grenzweg,Primary School,General Education School System,Municipal,15,318
+2021,Am Glacis,Primary School,General Education School System,Municipal,9,182
+2021,Am Westring,Primary School,General Education School System,Municipal,8,159
+2021,Diesdorf,Primary School,General Education School System,Municipal,12,252
+2021,Friedenshöhe,Primary School,General Education School System,Municipal,10,214
+2021,Ottersleben,Primary School,General Education School System,Municipal,18,443
+2021,Lindenhof,Primary School,General Education School System,Municipal,16,351
+2021,Am Hopfengarten,Primary School,General Education School System,Municipal,8,184
+2021,Buckau,Primary School,General Education School System,Municipal,7,151
+2021,Salbke,Primary School,General Education School System,Municipal,11,207
+2021,Westerhüsen,Primary School,General Education School System,Municipal,8,157
+2021,Am Elbdamm,Primary School,General Education School System,Municipal,8,169
+2021,Am Brückfeld,Primary School,General Education School System,Municipal,8,176
+2021,Am Pechauer Platz,Primary School,General Education School System,Municipal,11,241
+2021,Rothensee,Primary School,General Education School System,Municipal,5,118
+2021,St. Mechthild,Primary School,General Education School System,Independent/Private,8,185
+2021,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,164
+2021,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,11,250
+2021,G.W.Leibniz,Community School,General Education School System,Municipal,15,361
+2021,W.Weitling,Community School,General Education School System,Municipal,18,400
+2021,O.Linke,Community School,General Education School System,Municipal,14,345
+2021,J.W.v.Goethe,Community School,General Education School System,Municipal,17,369
+2021,E.Wille,Community School,General Education School System,Municipal,15,357
+2021,A.W.Francke,Community School,General Education School System,Municipal,18,476
+2021,H.Heine,Community School,General Education School System,Municipal,12,267
+2021,Th.Mann,Community School,General Education School System,Municipal,12,304
+2021,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,280
+2021,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,38,899
+2021,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,33,762
+2021,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,41,961
+2021,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,560
+2021,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,26,531
+2021,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,922
+2021,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,826
+2021,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,36,811
+2021,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,46,1076
+2021,Comenius,Special Needs School,General Education School System,Municipal,15,171
+2021,Salzmann,Special Needs School,General Education School System,Municipal,16,181
+2021,Kästner,Special Needs School,General Education School System,Municipal,15,151
+2021,Anne Frank,Special Needs School,General Education School System,Municipal,9,117
+2021,Regenbogen,Special Needs School,General Education School System,Municipal,15,120
+2021,Am Wasserfall,Special Needs School,General Education School System,Municipal,15,121
+2021,H. Kükelhaus,Special Needs School,General Education School System,Municipal,13,107
+2021,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,121,2478
+2021,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,44,639
+2021,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,89,1643
+2021,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,20,396
+2021,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,23,406
+2021,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,41,628
+2021,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,1,13
+2021,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,53,1012
+2021,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,10,238
+2021,Leipziger Straße,Primary School,General Education School System,Municipal,13,300
+2021,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,25,605
+2021,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,27
+2021,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,8,124
+2021,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,60
+2021,Domgrundschule,Primary School,General Education School System,Independent/Private,8,176
+2021,Neue Schule,New School,General Education School System,Municipal,12,251
+2021,Stadtfeld,Primary School,General Education School System,Municipal,15,315
+2021,Th. Müntzer,Community School,General Education School System,Municipal,13,289
+2021,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,31,707
+2021,Sudenburg,Primary School,General Education School System,Municipal,14,333
+2021,Makarenkoschule1,Special Needs School,General Education School System,Municipal,16,129
+2021,Weitlingstraße,Primary School,General Education School System,Municipal,8,146
+2021,Annastraße,Primary School,General Education School System,Municipal,11,247
+2021,Schmeilstraße,Primary School,General Education School System,Municipal,5,98
+2021,Stiftungsgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,12,288
+2021,Moldenstraße,Primary School,General Education School System,Municipal,5,103
+2021,B.-Brecht-Straße,Primary School,General Education School System,Municipal,7,160
+2021,Am Sternsee,Special Needs School,General Education School System,Municipal,20,147
+2021,Freie Schule,Primary School,General Education School System,Independent/Private,4,97
+2021,Waldorf,Primary School,General Education School System,Independent/Private,8,194
+2021,Sek. LebenLernen,Secondary School,General Education School System,Independent/Private,8,169
+2021,Hand in Hand,Special Needs School,General Education School System,Municipal,10,58
+2020,Hegelstr.,Primary School,General Education School System,Municipal,8,145
+2020,Im Nordpark,Primary School,General Education School System,Municipal,13,288
+2020,Am Umfassungsweg,Primary School,General Education School System,Municipal,10,188
+2020,An der Klosterwuhne,Primary School,General Education School System,Municipal,15,356
+2020,Am Vogelgesang,Primary School,General Education School System,Municipal,12,253
+2020,Am Kannenstieg,Primary School,General Education School System,Municipal,12,229
+2020,Kritzmannstraße,Primary School,General Education School System,Municipal,14,287
+2020,Nordwest,Primary School,General Education School System,Municipal,8,181
+2020,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,173
+2020,Am Fliederhof,Primary School,General Education School System,Municipal,10,185
+2020,Am Grenzweg,Primary School,General Education School System,Municipal,15,322
+2020,Am Glacis,Primary School,General Education School System,Municipal,8,173
+2020,Am Westring,Primary School,General Education School System,Municipal,9,184
+2020,Diesdorf,Primary School,General Education School System,Municipal,11,214
+2020,Friedenshöhe,Primary School,General Education School System,Municipal,10,213
+2020,Ottersleben,Primary School,General Education School System,Municipal,18,421
+2020,Lindenhof,Primary School,General Education School System,Municipal,17,369
+2020,Am Hopfengarten,Primary School,General Education School System,Municipal,8,195
+2020,Buckau,Primary School,General Education School System,Municipal,7,165
+2020,Salbke,Primary School,General Education School System,Municipal,10,218
+2020,Westerhüsen,Primary School,General Education School System,Municipal,7,157
+2020,Am Elbdamm,Primary School,General Education School System,Municipal,8,173
+2020,Am Brückfeld,Primary School,General Education School System,Municipal,9,172
+2020,Am Pechauer Platz,Primary School,General Education School System,Municipal,11,234
+2020,Rothensee,Primary School,General Education School System,Municipal,6,113
+2020,St. Mechthild,Primary School,General Education School System,Independent/Private,8,181
+2020,Freie GS,Primary School,General Education School System,Independent/Private,4,97
+2020,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,168
+2020,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,10,226
+2020,G.W.Leibniz,Community School,General Education School System,Municipal,16,357
+2020,W.Weitling,Community School,General Education School System,Municipal,18,403
+2020,O.Linke,Community School,General Education School System,Municipal,14,339
+2020,J.W.v.Goethe,Community School,General Education School System,Municipal,18,415
+2020,E.Wille,Community School,General Education School System,Municipal,14,340
+2020,A.W.Francke,Community School,General Education School System,Municipal,18,463
+2020,H.Heine,Community School,General Education School System,Municipal,12,264
+2020,Th.Mann,Community School,General Education School System,Municipal,12,317
+2020,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,12,274
+2020,LebenLernen,Secondary School,General Education School System,Independent/Private,7,159
+2020,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,38,927
+2020,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,32,736
+2020,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,39,922
+2020,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,559
+2020,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,26,533
+2020,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,914
+2020,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,26,836
+2020,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,34,813
+2020,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,44,1070
+2020,Comenius,Special Needs School,General Education School System,Municipal,15,161
+2020,Salzmann,Special Needs School,General Education School System,Municipal,17,181
+2020,Kästner,Special Needs School,General Education School System,Municipal,12,131
+2020,Anne Frank,Special Needs School,General Education School System,Municipal,10,109
+2020,Regenbogen,Special Needs School,General Education School System,Municipal,15,119
+2020,Am Wasserfall,Special Needs School,General Education School System,Municipal,15,120
+2020,H. Kükelhaus,Special Needs School,General Education School System,Municipal,13,108
+2020,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,117,2392
+2020,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,44,645
+2020,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,88,1681
+2020,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,17,350
+2020,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,25,439
+2020,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,40,639
+2020,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,2,32
+2020,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,49,993
+2020,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,9,216
+2020,Leipziger Straße,Primary School,General Education School System,Municipal,16,338
+2020,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,25,583
+2020,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,26
+2020,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,8,129
+2020,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,62
+2020,Domgrundschule,Primary School,General Education School System,Independent/Private,8,178
+2020,Neue Schule,New School,General Education School System,Municipal,12,249
+2020,Stadtfeld,Primary School,General Education School System,Municipal,16,319
+2020,Th. Müntzer,Community School,General Education School System,Municipal,13,296
+2020,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,28,640
+2020,Sudenburg,Primary School,General Education School System,Municipal,14,316
+2020,Makarenkoschule1,Special Needs School,General Education School System,Municipal,15,124
+2020,Weitlingstraße,Primary School,General Education School System,Municipal,8,163
+2020,Annastraße,Primary School,General Education School System,Municipal,11,230
+2020,Schmeilstraße,Primary School,General Education School System,Municipal,5,105
+2020,Stiftungsgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,9,207
+2020,Moldenstraße,Primary School,General Education School System,Municipal,2,41
+2020,B.-Brecht-Straße,Primary School,General Education School System,Municipal,5,108
+2020,Am Sternsee,Special Needs School,General Education School System,Municipal,17,119
+2020,Hand in Hand (Kritzmannstraße),Special Needs School,General Education School System,Municipal,7,49
+2019,Hegelstr.,Primary School,General Education School System,Municipal,7,140
+2019,Im Nordpark,Primary School,General Education School System,Municipal,12,275
+2019,Am Umfassungsweg,Primary School,General Education School System,Municipal,10,204
+2019,An der Klosterwuhne,Primary School,General Education School System,Municipal,16,341
+2019,Am Vogelgesang,Primary School,General Education School System,Municipal,12,254
+2019,Am Kannenstieg,Primary School,General Education School System,Municipal,12,246
+2019,Kritzmannstraße,Special Needs School,General Education School System,Municipal,3,23
+2019,Kritzmannstraße,Primary School,General Education School System,Municipal,14,284
+2019,Nordwest,Primary School,General Education School System,Municipal,8,176
+2019,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,177
+2019,Am Fliederhof,Primary School,General Education School System,Municipal,9,166
+2019,Am Grenzweg,Primary School,General Education School System,Municipal,15,299
+2019,Am Glacis,Primary School,General Education School System,Municipal,8,167
+2019,Am Westring,Primary School,General Education School System,Municipal,8,185
+2019,Diesdorf,Primary School,General Education School System,Municipal,10,199
+2019,Friedenshöhe,Primary School,General Education School System,Municipal,10,226
+2019,Ottersleben,Primary School,General Education School System,Municipal,18,406
+2019,Lindenhof,Primary School,General Education School System,Municipal,18,376
+2019,Am Hopfengarten,Primary School,General Education School System,Municipal,9,193
+2019,Buckau,Primary School,General Education School System,Municipal,7,167
+2019,Salbke,Primary School,General Education School System,Municipal,10,201
+2019,Westerhüsen,Primary School,General Education School System,Municipal,7,150
+2019,Am Elbdamm,Primary School,General Education School System,Municipal,8,168
+2019,Am Brückfeld,Primary School,General Education School System,Municipal,9,177
+2019,Am Pechauer Platz,Primary School,General Education School System,Municipal,12,241
+2019,Rothensee,Primary School,General Education School System,Municipal,6,103
+2019,St. Mechthild,Primary School,General Education School System,Independent/Private,8,181
+2019,Freie GS,Primary School,General Education School System,Independent/Private,5,96
+2019,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,168
+2019,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,9,200
+2019,G.W.Leibniz,Community School,General Education School System,Municipal,15,366
+2019,W.Weitling,Community School,General Education School System,Municipal,17,400
+2019,O.Linke,Community School,General Education School System,Municipal,14,350
+2019,J.W.v.Goethe,Community School,General Education School System,Municipal,18,398
+2019,E.Wille,Community School,General Education School System,Municipal,14,347
+2019,A.W.Francke,Community School,General Education School System,Municipal,18,448
+2019,H.Heine,Community School,General Education School System,Municipal,12,288
+2019,Th.Mann,Community School,General Education School System,Municipal,12,312
+2019,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,12,288
+2019,LebenLernen,Secondary School,General Education School System,Independent/Private,6,143
+2019,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,916
+2019,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,748
+2019,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,38,914
+2019,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,563
+2019,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,27,541
+2019,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,899
+2019,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,856
+2019,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,36,859
+2019,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,46,1094
+2019,Comenius,Special Needs School,General Education School System,Municipal,14,148
+2019,Salzmann,Special Needs School,General Education School System,Municipal,16,177
+2019,Kästner,Special Needs School,General Education School System,Municipal,11,116
+2019,Anne Frank,Special Needs School,General Education School System,Municipal,10,106
+2019,Fermersl. Weg,Special Needs School,General Education School System,Municipal,14,109
+2019,Regenbogen,Special Needs School,General Education School System,Municipal,16,121
+2019,Am Wasserfall,Special Needs School,General Education School System,Municipal,15,122
+2019,H. Kükelhaus,Special Needs School,General Education School System,Municipal,13,112
+2019,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,120,2386
+2019,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,44,683
+2019,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,89,1698
+2019,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,19,380
+2019,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,24,440
+2019,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,40,664
+2019,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,6,87
+2019,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,52,1080
+2019,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,8,195
+2019,Leipziger Straße,Primary School,General Education School System,Municipal,17,380
+2019,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,25,583
+2019,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,16
+2019,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,8,158
+2019,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,62
+2019,Domgrundschule,Primary School,General Education School System,Independent/Private,8,183
+2019,Neue Schule,New School,General Education School System,Municipal,11,228
+2019,Stadtfeld,Primary School,General Education School System,Municipal,15,297
+2019,Th. Müntzer,Community School,General Education School System,Municipal,14,287
+2019,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,23,536
+2019,Sudenburg,Primary School,General Education School System,Municipal,14,313
+2019,Makarenkoschule1,Special Needs School,General Education School System,Municipal,15,118
+2019,Weitlingstraße,Primary School,General Education School System,Municipal,9,185
+2019,Annastraße,Primary School,General Education School System,Municipal,11,247
+2019,Schmeilstraße,Primary School,General Education School System,Municipal,5,119
+2019,Stiftungsgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,6,132
+2019,GS B.-Brecht-Straße,Primary School,General Education School System,Municipal,3,63
+2018,Hegelstr.,Primary School,General Education School System,Municipal,136,62
+2018,Im Nordpark,Primary School,General Education School System,Municipal,245,116
+2018,Am Umfassungsweg,Primary School,General Education School System,Municipal,213,112
+2018,An der Klosterwuhne,Primary School,General Education School System,Municipal,370,196
+2018,Am Vogelgesang,Primary School,General Education School System,Municipal,268,134
+2018,Am Kannenstieg,Primary School,General Education School System,Municipal,256,131
+2018,Kritzmannstraße,Special Needs School,General Education School System,Municipal,3,22
+2018,Kritzmannstraße,Primary School,General Education School System,Municipal,267,139
+2018,Nordwest,Primary School,General Education School System,Municipal,191,93
+2018,Alt Olvenstedt,Primary School,General Education School System,Municipal,146,62
+2018,Am Fliederhof,Primary School,General Education School System,Municipal,194,101
+2018,Am Grenzweg,Primary School,General Education School System,Municipal,281,130
+2018,Am Glacis,Primary School,General Education School System,Municipal,178,76
+2018,Am Westring,Primary School,General Education School System,Municipal,187,91
+2018,Diesdorf,Primary School,General Education School System,Municipal,194,100
+2018,Friedenshöhe,Primary School,General Education School System,Municipal,215,118
+2018,Ottersleben,Primary School,General Education School System,Municipal,411,213
+2018,Lindenhof,Primary School,General Education School System,Municipal,390,176
+2018,Am Hopfengarten,Primary School,General Education School System,Municipal,198,90
+2018,Buckau,Primary School,General Education School System,Municipal,216,105
+2018,Salbke,Primary School,General Education School System,Municipal,231,108
+2018,Westerhüsen,Primary School,General Education School System,Municipal,150,72
+2018,Am Elbdamm,Primary School,General Education School System,Municipal,172,88
+2018,Am Brückfeld,Primary School,General Education School System,Municipal,183,87
+2018,Am Pechauer Platz,Primary School,General Education School System,Municipal,246,111
+2018,Rothensee,Primary School,General Education School System,Municipal,108,52
+2018,St. Mechthild,Primary School,General Education School System,Independent/Private,177,91
+2018,Freie GS,Primary School,General Education School System,Independent/Private,96,49
+2018,Evangelische GS MD,Primary School,General Education School System,Independent/Private,169,83
+2018,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,176,91
+2018,G.W.Leibniz,Community School,General Education School System,Municipal,12,273
+2018,W.Weitling,Community School,General Education School System,Municipal,17,398
+2018,O.Linke,Community School,General Education School System,Municipal,11,294
+2018,J.W.v.Goethe,Community School,General Education School System,Municipal,11,279
+2018,E.Wille,Community School,General Education School System,Municipal,12,304
+2018,A.W.Francke,Community School,General Education School System,Municipal,15,383
+2018,H.Heine,Community School,General Education School System,Municipal,10,246
+2018,Th.Mann,Community School,General Education School System,Municipal,10,265
+2018,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,12,284
+2018,LebenLernen,Secondary School,General Education School System,Independent/Private,6,144
+2018,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,902
+2018,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,33,740
+2018,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,36,852
+2018,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,570
+2018,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,28,569
+2018,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,911
+2018,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,857
+2018,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,38,895
+2018,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,45,1098
+2018,Comenius,Special Needs School,General Education School System,Municipal,12,129
+2018,Salzmann,Special Needs School,General Education School System,Municipal,16,177
+2018,Kästner,Special Needs School,General Education School System,Municipal,10,99
+2018,Anne Frank,Special Needs School,General Education School System,Municipal,9,106
+2018,Fermersl. Weg,Special Needs School,General Education School System,Municipal,14,112
+2018,Regenbogen,Special Needs School,General Education School System,Municipal,15,114
+2018,Am Wasserfall,Special Needs School,General Education School System,Municipal,16,121
+2018,H. Kükelhaus,Special Needs School,General Education School System,Municipal,12,98
+2018,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,120,2283
+2018,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,42,708
+2018,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,91,1749
+2018,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,18,366
+2018,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,24,481
+2018,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,39,630
+2018,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,3,62
+2018,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,49,1050
+2018,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,7,169
+2018,Leipziger Straße,Primary School,General Education School System,Municipal,417,194
+2018,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,25,581
+2018,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,28
+2018,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,6,149
+2018,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,70
+2018,Domgrundschule,Primary School,General Education School System,Independent/Private,183,101
+2018,Neue Schule,New School,General Education School System,Municipal,11,205
+2018,G.W.Leibniz Sek,Secondary School,General Education School System,Municipal,4,85
+2018,O.Linke Sek,Secondary School,General Education School System,Municipal,2,44
+2018,E.Wille Sek,Secondary School,General Education School System,Municipal,2,38
+2018,A.W.Francke Sek,Secondary School,General Education School System,Municipal,3,57
+2018,H.Heine Sek,Secondary School,General Education School System,Municipal,2,44
+2018,Th.Mann Sek,Secondary School,General Education School System,Municipal,2,49
+2018,Stadtfeld,Primary School,General Education School System,Municipal,297,162
+2018,Th. Müntzer,Community School,General Education School System,Municipal,9,200
+2018,Th. Müntzer Sek,Secondary School,General Education School System,Municipal,5,104
+2018,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,19,438
+2018,Sudenburg,Primary School,General Education School System,Municipal,301,132
+2018,J.W.v.Goethe Sek,Secondary School,General Education School System,Municipal,5,94
+2018,Makarenkoschule1,Special Needs School,General Education School System,Municipal,14,113
+2018,Weitlingstraße,Primary School,General Education School System,Municipal,190,98
+2018,Annastraße,Primary School,General Education School System,Municipal,249,115
+2018,Schmeilstraße,Primary School,General Education School System,Municipal,120,64
+2018,Stiftungsgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,3,57
+2017,Hegelstr.,Primary School,General Education School System,Municipal,132,48
+2017,Weitlingstr.,Primary School,General Education School System,Municipal,183,101
+2017,Im Nordpark,Primary School,General Education School System,Municipal,209,100
+2017,An der Klosterwuhne,Primary School,General Education School System,Municipal,346,185
+2017,Am Vogelgesang,Primary School,General Education School System,Municipal,266,129
+2017,Am Kannenstieg,Primary School,General Education School System,Municipal,268,137
+2017,Kritzmannstraße,Primary School,General Education School System,Municipal,264,128
+2017,Nordwest,Primary School,General Education School System,Municipal,197,107
+2017,Alt Olvenstedt,Primary School,General Education School System,Municipal,139,60
+2017,Am Fliederhof,Primary School,General Education School System,Municipal,184,97
+2017,Am Grenzweg,Primary School,General Education School System,Municipal,250,133
+2017,Annastr.,Primary School,General Education School System,Municipal,251,114
+2017,Am Glacis,Primary School,General Education School System,Municipal,170,94
+2017,Am Westring,Primary School,General Education School System,Municipal,200,105
+2017,Schmeilstr.,Primary School,General Education School System,Municipal,93,53
+2017,Diesdorf,Primary School,General Education School System,Municipal,214,119
+2017,Friedenshöhe,Primary School,General Education School System,Municipal,204,112
+2017,Ottersleben,Primary School,General Education School System,Municipal,434,240
+2017,Lindenhof,Primary School,General Education School System,Municipal,369,180
+2017,Am Hopfengarten,Primary School,General Education School System,Municipal,194,84
+2017,Buckau,Primary School,General Education School System,Municipal,214,108
+2017,Salbke,Primary School,General Education School System,Municipal,206,96
+2017,Westerhüsen,Primary School,General Education School System,Municipal,138,63
+2017,Am Elbdamm,Primary School,General Education School System,Municipal,179,92
+2017,Am Brückfeld,Primary School,General Education School System,Municipal,184,86
+2017,Am Pechauer Platz,Primary School,General Education School System,Municipal,233,108
+2017,Rothensee,Primary School,General Education School System,Municipal,106,45
+2017,St. Mechthild,Primary School,General Education School System,Independent/Private,173,87
+2017,Freie GS,Primary School,General Education School System,Independent/Private,97,45
+2017,Evangelische GS MD,Primary School,General Education School System,Independent/Private,165,81
+2017,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,169,91
+2017,G.W.Leibniz,Community School,General Education School System,Municipal,11,234
+2017,W.Weitling,Community School,General Education School System,Municipal,15,325
+2017,O.Linke,Community School,General Education School System,Municipal,9,235
+2017,J.W.v.Goethe,Community School,General Education School System,Municipal,11,223
+2017,E.Wille,Community School,General Education School System,Municipal,9,235
+2017,A.W.Francke,Community School,General Education School System,Municipal,12,310
+2017,H.Heine,Community School,General Education School System,Municipal,9,221
+2017,Th.Mann,Community School,General Education School System,Municipal,8,216
+2017,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,12,280
+2017,LebenLernen,Secondary School,General Education School System,Independent/Private,6,141
+2017,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,907
+2017,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,765
+2017,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,35,832
+2017,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,567
+2017,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,27,565
+2017,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,912
+2017,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,862
+2017,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,38,881
+2017,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,45,1093
+2017,Comenius,Special Needs School,General Education School System,Municipal,11,114
+2017,Salzmann,Special Needs School,General Education School System,Municipal,15,153
+2017,Kästner,Special Needs School,General Education School System,Municipal,10,101
+2017,Anne Frank,Special Needs School,General Education School System,Municipal,9,99
+2017,Fermersl. Weg,Special Needs School,General Education School System,Municipal,13,105
+2017,Regenbogen,Special Needs School,General Education School System,Municipal,16,119
+2017,Am Wasserfall,Special Needs School,General Education School System,Municipal,18,128
+2017,H. Kükelhaus,Special Needs School,General Education School System,Municipal,12,99
+2017,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,114,2143
+2017,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,47,736
+2017,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,90,1751
+2017,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,16,327
+2017,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,25,526
+2017,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,39,664
+2017,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,3,63
+2017,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,50,1037
+2017,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,6,150
+2017,Leipziger Straße,Primary School,General Education School System,Municipal,401,200
+2017,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,25,585
+2017,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,26
+2017,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,7,149
+2017,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,62
+2017,Domgrundschule,Primary School,General Education School System,Independent/Private,181,96
+2017,Neue Schule,New School,General Education School System,Municipal,10,180
+2017,G.W.Leibniz Sek,Secondary School,General Education School System,Municipal,6,122
+2017,W.Weitling Sek,Secondary School,General Education School System,Municipal,2,48
+2017,O.Linke Sek,Secondary School,General Education School System,Municipal,5,115
+2017,E.Wille Sek,Secondary School,General Education School System,Municipal,4,94
+2017,A.W.Francke Sek,Secondary School,General Education School System,Municipal,5,112
+2017,H.Heine Sek,Secondary School,General Education School System,Municipal,4,87
+2017,Th.Mann Sek,Secondary School,General Education School System,Municipal,4,90
+2017,Stadtfeld,Primary School,General Education School System,Municipal,277,137
+2017,Th. Müntzer,Community School,General Education School System,Municipal,8,176
+2017,Th. Müntzer Sek,Secondary School,General Education School System,Municipal,7,160
+2017,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,16,373
+2017,Sudenburg,Primary School,General Education School System,Municipal,267,121
+2017,Am Umfassungsweg3,Primary School,General Education School System,Municipal,209,111
+2017,J.W.v.Goethe Sek,Secondary School,General Education School System,Municipal,6,132
+2017,Makarenkoschule1,Special Needs School,General Education School System,Municipal,14,106
+2016,Hegelstr.,Primary School,General Education School System,Municipal,125,49
+2016,Weitlingstr.,Primary School,General Education School System,Municipal,174,88
+2016,Im Nordpark,Primary School,General Education School System,Municipal,202,97
+2016,Am Umfassungsweg,Primary School,General Education School System,Municipal,174,103
+2016,An der Klosterwuhne,Primary School,General Education School System,Municipal,337,188
+2016,Am Vogelgesang,Primary School,General Education School System,Municipal,261,124
+2016,Am Kannenstieg,Primary School,General Education School System,Municipal,254,131
+2016,Kritzmannstraße,Primary School,General Education School System,Municipal,218,100
+2016,Nordwest,Primary School,General Education School System,Municipal,195,112
+2016,Alt Olvenstedt,Primary School,General Education School System,Municipal,140,64
+2016,Am Fliederhof,Primary School,General Education School System,Municipal,173,83
+2016,Am Grenzweg,Primary School,General Education School System,Municipal,230,125
+2016,Annastr.,Primary School,General Education School System,Municipal,247,109
+2016,Am Glacis,Primary School,General Education School System,Municipal,161,73
+2016,Am Westring,Primary School,General Education School System,Municipal,179,89
+2016,Schmeilstr.,Primary School,General Education School System,Municipal,81,42
+2016,Diesdorf,Primary School,General Education School System,Municipal,191,109
+2016,Friedenshöhe,Primary School,General Education School System,Municipal,187,108
+2016,Ottersleben,Primary School,General Education School System,Municipal,435,232
+2016,Lindenhof,Primary School,General Education School System,Municipal,322,158
+2016,Am Hopfengarten,Primary School,General Education School System,Municipal,194,86
+2016,Buckau,Primary School,General Education School System,Municipal,190,98
+2016,Salbke,Primary School,General Education School System,Municipal,205,98
+2016,Westerhüsen,Primary School,General Education School System,Municipal,107,42
+2016,Am Elbdamm,Primary School,General Education School System,Municipal,164,75
+2016,Am Brückfeld,Primary School,General Education School System,Municipal,183,85
+2016,Am Pechauer Platz,Primary School,General Education School System,Municipal,224,95
+2016,Rothensee,Primary School,General Education School System,Municipal,98,41
+2016,St. Mechthild,Primary School,General Education School System,Independent/Private,176,85
+2016,Freie GS,Primary School,General Education School System,Independent/Private,95,44
+2016,Evangelische GS MD,Primary School,General Education School System,Independent/Private,165,81
+2016,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,163,86
+2016,G.W.Leibniz,Community School,General Education School System,Municipal,6,137
+2016,W.Weitling,Community School,General Education School System,Municipal,11,234
+2016,O.Linke,Community School,General Education School System,Municipal,7,149
+2016,J.W.v.Goethe,Community School,General Education School System,Municipal,5,84
+2016,E.Wille,Community School,General Education School System,Municipal,7,166
+2016,A.W.Francke,Community School,General Education School System,Municipal,9,211
+2016,H.Heine,Community School,General Education School System,Municipal,6,121
+2016,Th.Mann,Community School,General Education School System,Municipal,6,154
+2016,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,12,261
+2016,LebenLernen,Secondary School,General Education School System,Independent/Private,6,141
+2016,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,912
+2016,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,797
+2016,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,840
+2016,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,576
+2016,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,28,577
+2016,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,901
+2016,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,858
+2016,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,37,889
+2016,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,44,1080
+2016,Comenius,Special Needs School,General Education School System,Municipal,12,125
+2016,Salzmann,Special Needs School,General Education School System,Municipal,15,150
+2016,Kästner,Special Needs School,General Education School System,Municipal,10,103
+2016,Anne Frank,Special Needs School,General Education School System,Municipal,10,106
+2016,Regenbogen,Special Needs School,General Education School System,Municipal,14,114
+2016,Am Wasserfall,Special Needs School,General Education School System,Municipal,16,124
+2016,H. Kükelhaus,Special Needs School,General Education School System,Municipal,12,94
+2016,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,115,2120
+2016,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,52,750
+2016,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,95,1751
+2016,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,17,304
+2016,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,28,582
+2016,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,34,495
+2016,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,4,81
+2016,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,50,1046
+2016,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,6,140
+2016,Leipziger Straße,Primary School,General Education School System,Municipal,404,196
+2016,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,25,574
+2016,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,26
+2016,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,8,140
+2016,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,71
+2016,Domgrundschule,Primary School,General Education School System,Independent/Private,154,83
+2016,Neue Schule,New School,General Education School System,Municipal,8,133
+2016,G.W.Leibniz Sek,Secondary School,General Education School System,Municipal,10,225
+2016,W.Weitling Sek,Secondary School,General Education School System,Municipal,5,109
+2016,O.Linke Sek,Secondary School,General Education School System,Municipal,8,178
+2016,E.Wille Sek,Secondary School,General Education School System,Municipal,6,139
+2016,A.W.Francke Sek,Secondary School,General Education School System,Municipal,8,183
+2016,H.Heine Sek,Secondary School,General Education School System,Municipal,8,149
+2016,Th.Mann Sek,Secondary School,General Education School System,Municipal,6,132
+2016,Stadtfeld,Primary School,General Education School System,Municipal,249,127
+2016,Th. Müntzer,Community School,General Education School System,Municipal,5,104
+2016,Th. Müntzer Sek,Secondary School,General Education School System,Municipal,14,267
+2016,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,12,263
+2016,Sudenburg,Primary School,General Education School System,Municipal,222,98
+2016,Fermersl. Weg1,Special Needs School,General Education School System,Municipal,14,111
+2016,Makarenkoschule2,Special Needs School,General Education School System,Municipal,13,102
+2015,Hegelstr.,Primary School,General Education School System,Municipal,8,128
+2015,Weitlingstr.,Primary School,General Education School System,Municipal,8,165
+2015,Im Nordpark,Primary School,General Education School System,Municipal,9,197
+2015,Am Umfassungsweg,Primary School,General Education School System,Municipal,10,163
+2015,An der Klosterwuhne,Primary School,General Education School System,Municipal,15,302
+2015,Am Vogelgesang,Primary School,General Education School System,Municipal,13,269
+2015,Am Kannenstieg,Primary School,General Education School System,Municipal,13,244
+2015,Kritzmannstraße,Primary School,General Education School System,Municipal,8,179
+2015,Nordwest,Primary School,General Education School System,Municipal,11,218
+2015,Alt Olvenstedt,Primary School,General Education School System,Municipal,6,130
+2015,Am Fliederhof,Primary School,General Education School System,Municipal,8,165
+2015,Am Grenzweg,Primary School,General Education School System,Municipal,11,220
+2015,Annastr.,Primary School,General Education School System,Municipal,12,249
+2015,Am Glacis,Primary School,General Education School System,Municipal,8,169
+2015,Am Westring,Primary School,General Education School System,Municipal,8,164
+2015,Schmeilstr.,Primary School,General Education School System,Municipal,4,84
+2015,Diesdorf,Primary School,General Education School System,Municipal,8,187
+2015,Amsdorfstr.,Primary School,General Education School System,Municipal,8,183
+2015,Friedenshöhe,Primary School,General Education School System,Municipal,10,197
+2015,Ottersleben,Primary School,General Education School System,Municipal,20,448
+2015,Lindenhof,Primary School,General Education School System,Municipal,15,312
+2015,Am Hopfengarten,Primary School,General Education School System,Municipal,8,186
+2015,Buckau,Primary School,General Education School System,Municipal,9,190
+2015,Salbke,Primary School,General Education School System,Municipal,10,193
+2015,Westerhüsen,Primary School,General Education School System,Municipal,6,97
+2015,Am Elbdamm,Primary School,General Education School System,Municipal,9,155
+2015,Am Brückfeld,Primary School,General Education School System,Municipal,8,172
+2015,Am Pechauer Platz,Primary School,General Education School System,Municipal,10,201
+2015,Rothensee,Primary School,General Education School System,Municipal,4,84
+2015,St. Mechthild,Primary School,General Education School System,Independent/Private,8,167
+2015,Freie GS,Primary School,General Education School System,Independent/Private,4,92
+2015,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,163
+2015,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,8,174
+2015,G.W.Leibniz,Community School,General Education School System,Municipal,4,74
+2015,W.Weitling,Community School,General Education School System,Municipal,9,190
+2015,O.Linke,Community School,General Education School System,Municipal,4,88
+2015,J.W.v.Goethe,Community School,General Education School System,Municipal,3,61
+2015,E.Wille,Community School,General Education School System,Municipal,5,107
+2015,A.W.Francke,Community School,General Education School System,Municipal,6,128
+2015,H.Heine,Community School,General Education School System,Municipal,4,80
+2015,Th.Mann,Community School,General Education School System,Municipal,4,107
+2015,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,268
+2015,LebenLernen,Secondary School,General Education School System,Independent/Private,6,143
+2015,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,38,951
+2015,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,785
+2015,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,842
+2015,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,575
+2015,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,28,583
+2015,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,35,899
+2015,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,867
+2015,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,37,848
+2015,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,41,1012
+2015,Comenius,Special Needs School,General Education School System,Municipal,14,150
+2015,Salzmann,Special Needs School,General Education School System,Municipal,17,187
+2015,Kästner,Special Needs School,General Education School System,Municipal,11,114
+2015,Anne Frank,Special Needs School,General Education School System,Municipal,9,114
+2015,Fermersl. Weg,Special Needs School,General Education School System,Municipal,15,110
+2015,Makarenkoschule,Special Needs School,General Education School System,Municipal,12,102
+2015,Regenbogen,Special Needs School,General Education School System,Municipal,13,105
+2015,Am Wasserfall,Special Needs School,General Education School System,Municipal,15,114
+2015,H. Kükelhaus,Special Needs School,General Education School System,Municipal,12,89
+2015,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,116,2037
+2015,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,56,817
+2015,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,96,1832
+2015,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,15,273
+2015,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,26,622
+2015,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,28,383
+2015,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,6,76
+2015,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,50,1054
+2015,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,6,114
+2015,Leipziger Straße,Primary School,General Education School System,Municipal,18,383
+2015,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,23,530
+2015,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,33
+2015,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,9,156
+2015,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,77
+2015,Domgrundschule,Primary School,General Education School System,Independent/Private,6,135
+2015,Neue Schule,New School,General Education School System,Municipal,7,113
+2015,G.W.Leibniz Sek,Secondary School,General Education School System,Municipal,13,280
+2015,W.Weitling Sek,Secondary School,General Education School System,Municipal,8,169
+2015,O.Linke Sek,Secondary School,General Education School System,Municipal,10,219
+2015,J.W.v.Goethe*,Community School,General Education School System,Municipal,2,43
+2015,E.Wille Sek,Secondary School,General Education School System,Municipal,8,187
+2015,A.W.Francke Sek,Secondary School,General Education School System,Municipal,9,201
+2015,H.Heine Sek,Secondary School,General Education School System,Municipal,9,167
+2015,Th.Mann Sek,Secondary School,General Education School System,Municipal,8,167
+2015,Stadtfeld,Primary School,General Education School System,Municipal,12,232
+2015,Th. Müntzer,Community School,General Education School System,Municipal,2,46
+2015,Th. Müntzer Sek,Secondary School,General Education School System,Municipal,15,281
+2015,Editha-Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,8,175
+2014,Hegelstr.,Primary School,General Education School System,Municipal,7,115
+2014,Weitlingstr.,Primary School,General Education School System,Municipal,8,153
+2014,Im Nordpark,Primary School,General Education School System,Municipal,9,184
+2014,Am Umfassungsweg,Primary School,General Education School System,Municipal,8,152
+2014,An der Klosterwuhne,Primary School,General Education School System,Municipal,15,298
+2014,Am Vogelgesang,Primary School,General Education School System,Municipal,11,237
+2014,Am Kannenstieg,Primary School,General Education School System,Municipal,11,221
+2014,Kritzmannstraße,Primary School,General Education School System,Municipal,8,162
+2014,Nordwest,Primary School,General Education School System,Municipal,10,196
+2014,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,140
+2014,Am Fliederhof,Primary School,General Education School System,Municipal,8,138
+2014,Am Grenzweg,Primary School,General Education School System,Municipal,10,201
+2014,Am Westernplan,Primary School,General Education School System,Municipal,12,224
+2014,Annastr.,Primary School,General Education School System,Municipal,12,241
+2014,Am Glacis,Primary School,General Education School System,Municipal,8,165
+2014,Am Westring,Primary School,General Education School System,Municipal,8,154
+2014,Schmeilstr.,Primary School,General Education School System,Municipal,4,80
+2014,Diesdorf,Primary School,General Education School System,Municipal,9,173
+2014,Amsdorfstr.,Primary School,General Education School System,Municipal,9,176
+2014,Friedenshöhe,Primary School,General Education School System,Municipal,10,206
+2014,Ottersleben,Primary School,General Education School System,Municipal,19,435
+2014,Lindenhof,Primary School,General Education School System,Municipal,16,316
+2014,Am Hopfengarten,Primary School,General Education School System,Municipal,8,185
+2014,Buckau,Primary School,General Education School System,Municipal,8,154
+2014,Salbke,Primary School,General Education School System,Municipal,10,189
+2014,Westerhüsen,Primary School,General Education School System,Municipal,5,83
+2014,Am Elbdamm,Primary School,General Education School System,Municipal,8,151
+2014,Am Brückfeld,Primary School,General Education School System,Municipal,8,180
+2014,Am Pechauer Platz,Primary School,General Education School System,Municipal,10,198
+2014,Rothensee,Primary School,General Education School System,Municipal,5,92
+2014,St. Mechthild,Primary School,General Education School System,Independent/Private,8,164
+2014,Freie GS,Primary School,General Education School System,Independent/Private,4,97
+2014,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,163
+2014,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,8,172
+2014,G.W.Leibniz,Community School,General Education School System,Municipal,2,29
+2014,Th.Müntzer,Community School,General Education School System,Municipal,2,41
+2014,W.Weitling,Community School,General Education School System,Municipal,5,100
+2014,O.Linke,Community School,General Education School System,Municipal,2,34
+2014,J.W.v.Goethe,Community School,General Education School System,Municipal,2,31
+2014,E.Wille,Community School,General Education School System,Municipal,3,60
+2014,A.W.Francke,Community School,General Education School System,Municipal,3,52
+2014,H.Heine,Community School,General Education School System,Municipal,2,31
+2014,Th.Mann,Community School,General Education School System,Municipal,2,56
+2014,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,270
+2014,LebenLernen,Secondary School,General Education School System,Independent/Private,6,139
+2014,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,940
+2014,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,35,850
+2014,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,871
+2014,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,561
+2014,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,28,571
+2014,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,36,890
+2014,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,856
+2014,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,35,851
+2014,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,39,974
+2014,Comenius,Special Needs School,General Education School System,Municipal,16,165
+2014,Salzmann,Special Needs School,General Education School System,Municipal,15,168
+2014,Kästner,Special Needs School,General Education School System,Municipal,11,115
+2014,Anne Frank,Special Needs School,General Education School System,Municipal,10,107
+2014,Fermersl. Weg,Special Needs School,General Education School System,Municipal,15,116
+2014,Makarenkoschule,Special Needs School,General Education School System,Municipal,14,112
+2014,Regenbogen,Special Needs School,General Education School System,Municipal,14,96
+2014,Am Wasserfall,Special Needs School,General Education School System,Municipal,15,104
+2014,H. Kükelhaus,Special Needs School,General Education School System,Municipal,12,89
+2014,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,116,2100
+2014,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,58,940
+2014,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,98,1884
+2014,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,14,255
+2014,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,25,629
+2014,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,25,305
+2014,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,6,105
+2014,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,45,932
+2014,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,6,94
+2014,Leipziger Straße,Primary School,General Education School System,Municipal,19,380
+2014,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,21,491
+2014,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,32
+2014,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,9,161
+2014,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,75
+2014,Domgrundschule,Primary School,General Education School System,Independent/Private,4,90
+2014,Neue Schule,New School,General Education School System,Municipal,5,70
+2014,A. - Einstein - Gymnasium (Außenstelle),Grammar School (Gymnasium),General Education School System,Municipal,6,124
+2014,G.W.Leibniz Sek,Secondary School,General Education School System,Municipal,15,281
+2014,W.Weitling Sek,Secondary School,General Education School System,Municipal,10,200
+2014,O.Linke Sek,Secondary School,General Education School System,Municipal,12,267
+2014,J.W.v.Goethe*,Community School,General Education School System,Municipal,2,42
+2014,E.Wille Sek,Secondary School,General Education School System,Municipal,10,209
+2014,A.W.Francke Sek,Secondary School,General Education School System,Municipal,12,257
+2014,H.Heine Sek,Secondary School,General Education School System,Municipal,11,214
+2014,Th.Mann Sek,Secondary School,General Education School System,Municipal,10,205
+2013,Hegelstr.,Primary School,General Education School System,Municipal,7,122
+2013,Weitlingstr.,Primary School,General Education School System,Municipal,8,146
+2013,Im Nordpark,Primary School,General Education School System,Municipal,9,174
+2013,Am Umfassungsweg,Primary School,General Education School System,Municipal,8,148
+2013,An der Klosterwuhne,Primary School,General Education School System,Municipal,15,289
+2013,Am Vogelgesang,Primary School,General Education School System,Municipal,10,225
+2013,Am Kannenstieg,Primary School,General Education School System,Municipal,11,218
+2013,Kritzmannstraße,Primary School,General Education School System,Municipal,8,157
+2013,Nordwest,Primary School,General Education School System,Municipal,9,191
+2013,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,139
+2013,Am Fliederhof,Primary School,General Education School System,Municipal,8,131
+2013,Am Grenzweg,Primary School,General Education School System,Municipal,11,188
+2013,Am Westernplan,Primary School,General Education School System,Municipal,8,139
+2013,Stormstr.,Primary School,General Education School System,Municipal,5,95
+2013,Annastr.,Primary School,General Education School System,Municipal,12,235
+2013,Am Glacis,Primary School,General Education School System,Municipal,8,153
+2013,Am Westring,Primary School,General Education School System,Municipal,8,149
+2013,Schmeilstr.,Primary School,General Education School System,Municipal,4,77
+2013,Diesdorf,Primary School,General Education School System,Municipal,9,173
+2013,Amsdorfstr.,Primary School,General Education School System,Municipal,9,203
+2013,Friedenshöhe,Primary School,General Education School System,Municipal,10,202
+2013,Ottersleben,Primary School,General Education School System,Municipal,18,401
+2013,Lindenhof,Primary School,General Education School System,Municipal,19,288
+2013,Am Hopfengarten,Primary School,General Education School System,Municipal,8,178
+2013,Buckau,Primary School,General Education School System,Municipal,8,155
+2013,Salbke,Primary School,General Education School System,Municipal,10,177
+2013,Westerhüsen,Primary School,General Education School System,Municipal,4,73
+2013,Am Elbdamm,Primary School,General Education School System,Municipal,8,158
+2013,Am Brückfeld,Primary School,General Education School System,Municipal,8,185
+2013,Am Pechauer Platz,Primary School,General Education School System,Municipal,9,194
+2013,Rothensee,Primary School,General Education School System,Municipal,6,93
+2013,St. Mechthild,Primary School,General Education School System,Independent/Private,8,163
+2013,Freie GS,Primary School,General Education School System,Independent/Private,4,92
+2013,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,164
+2013,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,8,166
+2013,G.W.Leibniz,Secondary School,General Education School System,Municipal,17,318
+2013,Th.Müntzer,Secondary School,General Education School System,Municipal,14,295
+2013,W.Weitling,Secondary School,General Education School System,Municipal,13,259
+2013,O.Linke,Secondary School,General Education School System,Municipal,14,300
+2013,J.W.v.Goethe,Secondary School,General Education School System,Municipal,15,302
+2013,E.Wille,Secondary School,General Education School System,Municipal,12,247
+2013,A.W.Francke,Secondary School,General Education School System,Municipal,15,318
+2013,H.Heine,Secondary School,General Education School System,Municipal,13,271
+2013,Th.Mann,Secondary School,General Education School System,Municipal,12,259
+2013,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,272
+2013,LebenLernen,Secondary School,General Education School System,Independent/Private,6,140
+2013,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,957
+2013,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,36,879
+2013,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,860
+2013,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,559
+2013,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,28,554
+2013,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,35,871
+2013,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,846
+2013,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,33,786
+2013,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,37,896
+2013,Comenius,Special Needs School,General Education School System,Municipal,11,114
+2013,Gebr. Grimm,Special Needs School,General Education School System,Municipal,6,62
+2013,Salzmann,Special Needs School,General Education School System,Municipal,14,174
+2013,Kästner,Special Needs School,General Education School System,Municipal,11,123
+2013,Anne Frank,Special Needs School,General Education School System,Municipal,13,142
+2013,Fermersl. Weg,Special Needs School,General Education School System,Municipal,16,119
+2013,Regenbogen,Special Needs School,General Education School System,Municipal,13,93
+2013,Am Wasserfall,Special Needs School,General Education School System,Municipal,14,98
+2013,H. Kükelhaus,Special Needs School,General Education School System,Municipal,12,88
+2013,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,115,2102
+2013,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,57,914
+2013,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,105,1973
+2013,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,16,283
+2013,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,26,593
+2013,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,24,307
+2013,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,6,142
+2013,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,45,915
+2013,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,5,86
+2013,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,19,431
+2013,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,35
+2013,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,9,177
+2013,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,4,83
+2013,Leipziger Straße *,Primary School,General Education School System,Municipal,18,363
+2013,Domgrundschule,Primary School,General Education School System,Independent/Private,2,44
+2013,Neue Schule,New School,General Education School System,Municipal,3,35
+2013,A. - Einstein - Gymnasium (Außenstelle),Grammar School (Gymnasium),General Education School System,Municipal,3,64
+2013,Makarenkoschule*,Special Needs School,General Education School System,Municipal,14,115
+2012,Hegelstr.,Primary School,General Education School System,Municipal,7,105
+2012,Weitlingstr.,Primary School,General Education School System,Municipal,8,148
+2012,Im Nordpark,Primary School,General Education School System,Municipal,8,157
+2012,Am Umfassungsweg,Primary School,General Education School System,Municipal,8,158
+2012,An der Klosterwuhne,Primary School,General Education School System,Municipal,15,301
+2012,Am Vogelgesang,Primary School,General Education School System,Municipal,10,198
+2012,Am Kannenstieg,Primary School,General Education School System,Municipal,10,203
+2012,Kritzmannstraße,Primary School,General Education School System,Municipal,9,167
+2012,Nordwest,Primary School,General Education School System,Municipal,9,195
+2012,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,139
+2012,Am Fliederhof,Primary School,General Education School System,Municipal,8,141
+2012,Am Grenzweg,Primary School,General Education School System,Municipal,11,170
+2012,Am Westernplan,Primary School,General Education School System,Municipal,7,132
+2012,Stormstr.,Primary School,General Education School System,Municipal,5,90
+2012,Annastr.,Primary School,General Education School System,Municipal,12,220
+2012,Am Glacis,Primary School,General Education School System,Municipal,7,136
+2012,Am Westring,Primary School,General Education School System,Municipal,8,152
+2012,Schmeilstr.,Primary School,General Education School System,Municipal,5,97
+2012,Diesdorf,Primary School,General Education School System,Municipal,9,161
+2012,Amsdorfstr.,Primary School,General Education School System,Municipal,9,184
+2012,Friedenshöhe,Primary School,General Education School System,Municipal,10,203
+2012,Ottersleben,Primary School,General Education School System,Municipal,17,400
+2012,Lindenhof,Primary School,General Education School System,Municipal,16,299
+2012,Am Hopfengarten,Primary School,General Education School System,Municipal,8,167
+2012,Buckau,Primary School,General Education School System,Municipal,8,146
+2012,Salbke,Primary School,General Education School System,Municipal,10,191
+2012,Westerhüsen,Primary School,General Education School System,Municipal,4,77
+2012,Am Elbdamm,Primary School,General Education School System,Municipal,7,142
+2012,Am Brückfeld,Primary School,General Education School System,Municipal,9,179
+2012,Am Pechauer Platz,Primary School,General Education School System,Municipal,10,215
+2012,Rothensee,Primary School,General Education School System,Municipal,5,85
+2012,St. Mechthild,Primary School,General Education School System,Independent/Private,8,161
+2012,Freie GS,Primary School,General Education School System,Independent/Private,4,92
+2012,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,164
+2012,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,8,159
+2012,G.W.Leibniz,Secondary School,General Education School System,Municipal,17,328
+2012,Th.Müntzer,Secondary School,General Education School System,Municipal,15,317
+2012,W.Weitling,Secondary School,General Education School System,Municipal,13,269
+2012,O.Linke,Secondary School,General Education School System,Municipal,14,298
+2012,J.W.v.Goethe,Secondary School,General Education School System,Municipal,14,295
+2012,E.Wille,Secondary School,General Education School System,Municipal,12,236
+2012,A.W.Francke,Secondary School,General Education School System,Municipal,14,305
+2012,H.Heine,Secondary School,General Education School System,Municipal,12,241
+2012,Th.Mann,Secondary School,General Education School System,Municipal,12,258
+2012,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,14,288
+2012,LebenLernen,Secondary School,General Education School System,Independent/Private,6,139
+2012,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,37,934
+2012,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,36,874
+2012,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,35,826
+2012,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,577
+2012,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,27,511
+2012,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,35,868
+2012,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,32,827
+2012,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,32,777
+2012,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,34,821
+2012,Comenius,Special Needs School,General Education School System,Municipal,11,116
+2012,Gebr. Grimm,Special Needs School,General Education School System,Municipal,7,71
+2012,Salzmann,Special Needs School,General Education School System,Municipal,16,179
+2012,Kästner,Special Needs School,General Education School System,Municipal,11,112
+2012,Anne Frank,Special Needs School,General Education School System,Municipal,14,147
+2012,Fermersl. Weg,Special Needs School,General Education School System,Municipal,15,114
+2012,Makarenkoschule,Special Needs School,General Education School System,Municipal,13,112
+2012,Regenbogen,Special Needs School,General Education School System,Municipal,13,92
+2012,Am Wasserfall,Special Needs School,General Education School System,Municipal,14,101
+2012,H. Kükelhaus,Special Needs School,General Education School System,Municipal,11,80
+2012,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,112,2025
+2012,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,61,970
+2012,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,109,2105
+2012,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,16,283
+2012,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,27,579
+2012,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,25,361
+2012,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,8,148
+2012,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,44,892
+2012,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,4,78
+2012,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,17,387
+2012,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,41
+2012,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,9,181
+2012,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,3,68
+2012,Leipziger Straße *,Primary School,General Education School System,Municipal,17,353
+2012,Domgrundschule,Primary School,General Education School System,Independent/Private,1,22
+2012,Neue Schule,New School,General Education School System,Municipal,1,12
+2011,Hegelstr.,Primary School,General Education School System,Municipal,7,119
+2011,Weitlingstr.,Primary School,General Education School System,Municipal,8,151
+2011,Im Nordpark,Primary School,General Education School System,Municipal,7,135
+2011,Am Umfassungsweg,Primary School,General Education School System,Municipal,8,140
+2011,An der Klosterwuhne,Primary School,General Education School System,Municipal,14,273
+2011,Am Vogelgesang,Primary School,General Education School System,Municipal,10,201
+2011,Am Kannenstieg,Primary School,General Education School System,Municipal,10,204
+2011,Kritzmannstraße,Primary School,General Education School System,Municipal,8,148
+2011,Nordwest,Primary School,General Education School System,Municipal,10,181
+2011,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,141
+2011,Am Fliederhof,Primary School,General Education School System,Municipal,7,145
+2011,Am Grenzweg,Primary School,General Education School System,Municipal,11,185
+2011,Am Westernplan,Primary School,General Education School System,Municipal,7,125
+2011,Stormstr.,Primary School,General Education School System,Municipal,6,98
+2011,Annastr.,Primary School,General Education School System,Municipal,13,240
+2011,Am Glacis,Primary School,General Education School System,Municipal,6,125
+2011,Am Westring,Primary School,General Education School System,Municipal,8,145
+2011,Schmeilstr.,Primary School,General Education School System,Municipal,6,117
+2011,Diesdorf,Primary School,General Education School System,Municipal,8,149
+2011,Amsdorfstr.,Primary School,General Education School System,Municipal,10,199
+2011,Friedenshöhe,Primary School,General Education School System,Municipal,11,198
+2011,Ottersleben,Primary School,General Education School System,Municipal,17,402
+2011,Lindenhof,Primary School,General Education School System,Municipal,16,297
+2011,Am Hopfengarten,Primary School,General Education School System,Municipal,8,151
+2011,Buckau,Primary School,General Education School System,Municipal,7,125
+2011,Salbke,Primary School,General Education School System,Municipal,11,175
+2011,Westerhüsen,Primary School,General Education School System,Municipal,4,72
+2011,Am Elbdamm,Primary School,General Education School System,Municipal,7,127
+2011,Am Brückfeld,Primary School,General Education School System,Municipal,9,163
+2011,Am Pechauer Platz,Primary School,General Education School System,Municipal,12,227
+2011,Rothensee,Primary School,General Education School System,Municipal,5,85
+2011,St. Mechthild,Primary School,General Education School System,Independent/Private,8,162
+2011,Freie GS,Primary School,General Education School System,Independent/Private,4,91
+2011,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,160
+2011,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,8,153
+2011,G.W.Leibniz,Secondary School,General Education School System,Municipal,15,289
+2011,Th.Müntzer,Secondary School,General Education School System,Municipal,18,337
+2011,W.Weitling,Secondary School,General Education School System,Municipal,13,262
+2011,O.Linke,Secondary School,General Education School System,Municipal,13,296
+2011,J.W.v.Goethe,Secondary School,General Education School System,Municipal,14,293
+2011,E.Wille,Secondary School,General Education School System,Municipal,12,230
+2011,A.W.Francke,Secondary School,General Education School System,Municipal,14,292
+2011,H.Heine,Secondary School,General Education School System,Municipal,12,247
+2011,Th.Mann,Secondary School,General Education School System,Municipal,12,267
+2011,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,14,297
+2011,LebenLernen,Secondary School,General Education School System,Independent/Private,5,113
+2011,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,36,919
+2011,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,35,821
+2011,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,30,741
+2011,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,24,576
+2011,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,25,480
+2011,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,35,845
+2011,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,31,801
+2011,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,34,814
+2011,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,34,838
+2011,Comenius,Special Needs School,General Education School System,Municipal,12,121
+2011,Gebr. Grimm,Special Needs School,General Education School System,Municipal,9,95
+2011,Salzmann,Special Needs School,General Education School System,Municipal,18,192
+2011,Kästner,Special Needs School,General Education School System,Municipal,10,110
+2011,Anne Frank,Special Needs School,General Education School System,Municipal,17,181
+2011,Fermersl. Weg,Special Needs School,General Education School System,Municipal,15,109
+2011,Makarenkoschule,Special Needs School,General Education School System,Municipal,12,104
+2011,Regenbogen,Special Needs School,General Education School System,Municipal,12,84
+2011,Am Wasserfall,Special Needs School,General Education School System,Municipal,13,93
+2011,H. Kükelhaus,Special Needs School,General Education School System,Municipal,12,82
+2011,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,127,2277
+2011,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,66,1102
+2011,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,113,2183
+2011,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,16,315
+2011,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,25,551
+2011,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,24,380
+2011,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,9,163
+2011,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,43,901
+2011,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,3,58
+2011,Leipziger Straße,Primary School,General Education School System,Municipal,16,318
+2011,Freie Waldorfschule,Waldorf School,General Education School System,Independent/Private,16,358
+2011,Abendgymnasium,Evening Grammar School,Schools of Second Education Pathway (Adult Education),Municipal,3,38
+2011,Kolleg,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),Municipal,9,189
+2011,Abendsekundarschule,Evening Secondary School,Schools of Second Education Pathway (Adult Education),Municipal,5,104
+2010,Hegelstr.,Primary School,General Education School System,Municipal,8,127
+2010,Weitlingstr.,Primary School,General Education School System,Municipal,8,141
+2010,Im Nordpark,Primary School,General Education School System,Municipal,7,122
+2010,Am Umfassungsweg,Primary School,General Education School System,Municipal,8,141
+2010,An der Klosterwuhne,Primary School,General Education School System,Municipal,13,259
+2010,Am Vogelgesang,Primary School,General Education School System,Municipal,10,173
+2010,Am Kannenstieg,Primary School,General Education School System,Municipal,10,192
+2010,Kritzmannstraße,Primary School,General Education School System,Municipal,8,134
+2010,Nordwest,Primary School,General Education School System,Municipal,11,185
+2010,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,138
+2010,Am Fliederhof,Primary School,General Education School System,Municipal,8,140
+2010,Am Grenzweg,Primary School,General Education School System,Municipal,12,201
+2010,Am Westernplan,Primary School,General Education School System,Municipal,7,125
+2010,Stormstr.,Primary School,General Education School System,Municipal,6,110
+2010,Annastr.,Primary School,General Education School System,Municipal,15,242
+2010,Am Glacis,Primary School,General Education School System,Municipal,6,125
+2010,Am Westring,Primary School,General Education School System,Municipal,8,169
+2010,Schmeilstr.,Primary School,General Education School System,Municipal,7,134
+2010,Diesdorf,Primary School,General Education School System,Municipal,7,126
+2010,Amsdorfstr.,Primary School,General Education School System,Municipal,9,178
+2010,Friedenshöhe,Primary School,General Education School System,Municipal,9,177
+2010,Ottersleben,Primary School,General Education School System,Municipal,17,405
+2010,B.-Brecht-Str.,Primary School,General Education School System,Municipal,13,307
+2010,Lindenhof,Primary School,General Education School System,Municipal,15,272
+2010,Am Hopfengarten,Primary School,General Education School System,Municipal,8,149
+2010,Buckau,Primary School,General Education School System,Municipal,6,98
+2010,Fermersleben,Primary School,General Education School System,Municipal,6,99
+2010,Salbke,Primary School,General Education School System,Municipal,4,67
+2010,Westerhüsen,Primary School,General Education School System,Municipal,4,75
+2010,Am Elbdamm,Primary School,General Education School System,Municipal,7,124
+2010,Am Brückfeld,Primary School,General Education School System,Municipal,8,148
+2010,Am Pechauer Platz,Primary School,General Education School System,Municipal,12,230
+2010,Rothensee,Primary School,General Education School System,Municipal,5,82
+2010,St. Mechthild,Primary School,General Education School System,Independent/Private,8,169
+2010,Freie GS,Primary School,General Education School System,Independent/Private,4,87
+2010,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,161
+2010,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,8,135
+2010,G.W.Leibniz,Secondary School,General Education School System,Municipal,14,261
+2010,Th.Müntzer,Secondary School,General Education School System,Municipal,20,365
+2010,W.Weitling,Secondary School,General Education School System,Municipal,12,257
+2010,O.Linke,Secondary School,General Education School System,Municipal,13,280
+2010,J.W.v.Goethe,Secondary School,General Education School System,Municipal,13,259
+2010,E.Wille,Secondary School,General Education School System,Municipal,12,221
+2010,A.W.Francke,Secondary School,General Education School System,Municipal,13,272
+2010,H.Heine,Secondary School,General Education School System,Municipal,11,227
+2010,Th.Mann,Secondary School,General Education School System,Municipal,11,234
+2010,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,292
+2010,LebenLernen,Secondary School,General Education School System,Independent/Private,4,91
+2010,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,35,891
+2010,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,788
+2010,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,30,702
+2010,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,23,558
+2010,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,27,513
+2010,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,833
+2010,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,30,787
+2010,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,35,859
+2010,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,34,813
+2010,Comenius,Special Needs School,General Education School System,Municipal,13,134
+2010,Gebr. Grimm,Special Needs School,General Education School System,Municipal,9,104
+2010,Salzmann,Special Needs School,General Education School System,Municipal,18,200
+2010,Kästner,Special Needs School,General Education School System,Municipal,12,143
+2010,Anne Frank,Special Needs School,General Education School System,Municipal,20,198
+2010,Fermersl. Weg,Special Needs School,General Education School System,Municipal,15,98
+2010,Makarenkoschule,Special Needs School,General Education School System,Municipal,11,95
+2010,Regenbogen,Special Needs School,General Education School System,Municipal,12,83
+2010,Am Wasserfall,Special Needs School,General Education School System,Municipal,13,93
+2010,H. Kükelhaus,Special Needs School,General Education School System,Municipal,10,72
+2010,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,115,2283
+2010,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,72,1257
+2010,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,124,2541
+2010,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,16,342
+2010,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,8,171
+2010,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,24,383
+2010,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,24,546
+2010,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,44,914
+2010,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,2,37
+2009,Hegelstr.,Primary School,General Education School System,Municipal,8,130
+2009,Weitlingstr.,Primary School,General Education School System,Municipal,8,130
+2009,Im Nordpark,Primary School,General Education School System,Municipal,7,110
+2009,Am Umfassungsweg,Primary School,General Education School System,Municipal,7,123
+2009,An der Klosterwuhne,Primary School,General Education School System,Municipal,13,249
+2009,Am Vogelgesang,Primary School,General Education School System,Municipal,9,158
+2009,Am Kannenstieg,Primary School,General Education School System,Municipal,10,190
+2009,Kritzmannstraße,Primary School,General Education School System,Municipal,7,123
+2009,Nordwest,Primary School,General Education School System,Municipal,12,216
+2009,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,145
+2009,Am Fliederhof,Primary School,General Education School System,Municipal,8,148
+2009,Am Grenzweg,Primary School,General Education School System,Municipal,12,210
+2009,Am Westernplan,Primary School,General Education School System,Municipal,7,125
+2009,Stormstr.,Primary School,General Education School System,Municipal,6,111
+2009,Annastr.,Primary School,General Education School System,Municipal,14,248
+2009,Am Glacis,Primary School,General Education School System,Municipal,7,121
+2009,Am Westring,Primary School,General Education School System,Municipal,8,153
+2009,Schmeilstr.,Primary School,General Education School System,Municipal,8,135
+2009,Diesdorf,Primary School,General Education School System,Municipal,7,111
+2009,Amsdorfstr.,Primary School,General Education School System,Municipal,9,165
+2009,Friedenshöhe,Primary School,General Education School System,Municipal,8,161
+2009,Ottersleben,Primary School,General Education School System,Municipal,17,410
+2009,B.-Brecht-Str.,Primary School,General Education School System,Municipal,15,311
+2009,Lindenhof,Primary School,General Education School System,Municipal,16,288
+2009,Am Hopfengarten,Primary School,General Education School System,Municipal,8,160
+2009,Buckau,Primary School,General Education School System,Municipal,7,113
+2009,Fermersleben,Primary School,General Education School System,Municipal,5,88
+2009,Salbke,Primary School,General Education School System,Municipal,4,64
+2009,Westerhüsen,Primary School,General Education School System,Municipal,4,74
+2009,Am Elbdamm,Primary School,General Education School System,Municipal,7,118
+2009,Am Brückfeld,Primary School,General Education School System,Municipal,8,147
+2009,Am Pechauer Platz,Primary School,General Education School System,Municipal,12,225
+2009,Rothensee,Primary School,General Education School System,Municipal,4,72
+2009,St. Mechthild,Primary School,General Education School System,Independent/Private,8,167
+2009,Freie GS,Primary School,General Education School System,Independent/Private,4,89
+2009,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,159
+2009,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,8,119
+2009,G.W.Leibniz,Secondary School,General Education School System,Municipal,13,229
+2009,Th.Müntzer,Secondary School,General Education School System,Municipal,14,283
+2009,W.Busch,Secondary School,General Education School System,Municipal,6,110
+2009,W.Weitling,Secondary School,General Education School System,Municipal,12,249
+2009,Fr.Naumann,Secondary School,General Education School System,Municipal,6,104
+2009,O.Linke,Secondary School,General Education School System,Municipal,12,222
+2009,J.W.v.Goethe,Secondary School,General Education School System,Municipal,13,232
+2009,E.Wille,Secondary School,General Education School System,Municipal,12,211
+2009,A.W.Francke,Secondary School,General Education School System,Municipal,14,284
+2009,H.Heine,Secondary School,General Education School System,Municipal,13,226
+2009,Th.Mann,Secondary School,General Education School System,Municipal,11,222
+2009,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,300
+2009,LebenLernen,Secondary School,General Education School System,Independent/Private,3,69
+2009,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,847
+2009,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,32,732
+2009,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,28,677
+2009,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,23,541
+2009,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,29,527
+2009,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,842
+2009,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,29,752
+2009,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,36,858
+2009,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,34,798
+2009,Fröbel,Special Needs School,General Education School System,Municipal,4,40
+2009,Comenius,Special Needs School,General Education School System,Municipal,13,134
+2009,Gebr. Grimm,Special Needs School,General Education School System,Municipal,10,113
+2009,Salzmann,Special Needs School,General Education School System,Municipal,16,186
+2009,Kästner,Special Needs School,General Education School System,Municipal,13,140
+2009,Anne Frank,Special Needs School,General Education School System,Municipal,20,189
+2009,Fermersl. Weg,Special Needs School,General Education School System,Municipal,13,88
+2009,Makarenkoschule,Special Needs School,General Education School System,Municipal,11,101
+2009,Regenbogen,Special Needs School,General Education School System,Municipal,11,79
+2009,Am Wasserfall,Special Needs School,General Education School System,Municipal,12,86
+2009,H. Kükelhaus,Special Needs School,General Education School System,Municipal,10,73
+2009,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,120,2505
+2009,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,71,1442
+2009,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,164,3452
+2009,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,18,392
+2009,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,10,224
+2009,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,24,407
+2009,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,45,991
+2009,Evangelische Sek.,Secondary School,General Education School System,Independent/Private,1,15
+2008,Hegelstr.,Primary School,General Education School System,Municipal,8,137
+2008,Weitlingstr.,Primary School,General Education School System,Municipal,9,144
+2008,Im Nordpark,Primary School,General Education School System,Municipal,8,131
+2008,Am Umfassungsweg,Primary School,General Education School System,Municipal,7,117
+2008,An der Klosterwuhne,Primary School,General Education School System,Municipal,11,232
+2008,Am Vogelgesang,Primary School,General Education School System,Municipal,9,166
+2008,Am Kannenstieg,Primary School,General Education School System,Municipal,10,191
+2008,Kritzmannstraße,Primary School,General Education School System,Municipal,7,131
+2008,Nordwest,Primary School,General Education School System,Municipal,8,181
+2008,Alt Olvenstedt,Primary School,General Education School System,Municipal,8,155
+2008,Am Fliederhof,Primary School,General Education School System,Municipal,8,135
+2008,Am Grenzweg,Primary School,General Education School System,Municipal,12,204
+2008,Am Westernplan,Primary School,General Education School System,Municipal,8,143
+2008,Stormstr.,Primary School,General Education School System,Municipal,6,119
+2008,Annastr.,Primary School,General Education School System,Municipal,15,258
+2008,Am Glacis,Primary School,General Education School System,Municipal,7,120
+2008,Am Westring,Primary School,General Education School System,Municipal,8,149
+2008,Schmeilstr.,Primary School,General Education School System,Municipal,7,128
+2008,Diesdorf,Primary School,General Education School System,Municipal,7,106
+2008,Amsdorfstr.,Primary School,General Education School System,Municipal,9,161
+2008,Friedenshöhe,Primary School,General Education School System,Municipal,8,130
+2008,Ottersleben,Primary School,General Education School System,Municipal,17,409
+2008,B.-Brecht-Str.,Primary School,General Education School System,Municipal,15,288
+2008,Lindenhof,Primary School,General Education School System,Municipal,16,296
+2008,Am Hopfengarten,Primary School,General Education School System,Municipal,8,157
+2008,Buckau,Primary School,General Education School System,Municipal,7,112
+2008,Fermersleben,Primary School,General Education School System,Municipal,5,73
+2008,Salbke,Primary School,General Education School System,Municipal,4,68
+2008,Westerhüsen,Primary School,General Education School System,Municipal,4,80
+2008,Am Elbdamm,Primary School,General Education School System,Municipal,8,124
+2008,Am Brückfeld,Primary School,General Education School System,Municipal,7,125
+2008,Am Pechauer Platz,Primary School,General Education School System,Municipal,12,210
+2008,Rothensee,Primary School,General Education School System,Municipal,5,81
+2008,St. Mechthild,Primary School,General Education School System,Independent/Private,8,160
+2008,Freie GS,Primary School,General Education School System,Independent/Private,4,89
+2008,Evangelische GS MD,Primary School,General Education School System,Independent/Private,8,157
+2008,Dreispr. Internat. GS,Primary School,General Education School System,Independent/Private,7,119
+2008,G.W.Leibniz,Secondary School,General Education School System,Municipal,13,231
+2008,Th.Müntzer,Secondary School,General Education School System,Municipal,14,307
+2008,W.Busch,Secondary School,General Education School System,Municipal,9,148
+2008,W.Weitling,Secondary School,General Education School System,Municipal,12,258
+2008,Fr.Naumann,Secondary School,General Education School System,Municipal,8,163
+2008,O.Linke,Secondary School,General Education School System,Municipal,12,238
+2008,J.W.v.Goethe,Secondary School,General Education School System,Municipal,12,226
+2008,E.Wille,Secondary School,General Education School System,Municipal,12,208
+2008,A.W.Francke,Secondary School,General Education School System,Municipal,14,300
+2008,H.Heine,Secondary School,General Education School System,Municipal,12,235
+2008,Th.Mann,Secondary School,General Education School System,Municipal,11,210
+2008,H.Schellheimer Sp.Sek.,Secondary School,General Education School System,Municipal,13,302
+2008,LebenLernen,Secondary School,General Education School System,Independent/Private,2,44
+2008,Hegel - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,34,839
+2008,A. - Einstein - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,36,837
+2008,Geschw. - Scholl - Gymnasium,Grammar School (Gymnasium),General Education School System,Municipal,31,733
+2008,Gymnasium W. - v. - Siemens,Grammar School (Gymnasium),General Education School System,Municipal,23,551
+2008,Sportgymnasium Magdeburg,Grammar School (Gymnasium),General Education School System,Municipal,25,494
+2008,Norbertusgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,34,838
+2008,Ökumenisches Domgymnasium,Grammar School (Gymnasium),General Education School System,Independent/Private,28,739
+2008,"IGS ""W. Brandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,36,826
+2008,"IGS ""Regine Hildebrandt""",Integrated Comprehensive School (IGS),General Education School System,Municipal,36,803
+2008,Fröbel,Special Needs School,General Education School System,Municipal,6,66
+2008,Comenius,Special Needs School,General Education School System,Municipal,12,129
+2008,Gebr. Grimm,Special Needs School,General Education School System,Municipal,11,123
+2008,Salzmann,Special Needs School,General Education School System,Municipal,16,185
+2008,Kästner,Special Needs School,General Education School System,Municipal,14,153
+2008,Anne Frank,Special Needs School,General Education School System,Municipal,20,203
+2008,Fermersl. Weg,Special Needs School,General Education School System,Municipal,14,89
+2008,Makarenkoschule,Special Needs School,General Education School System,Municipal,11,97
+2008,Regenbogen,Special Needs School,General Education School System,Municipal,12,84
+2008,Am Wasserfall,Special Needs School,General Education School System,Municipal,12,86
+2008,H. Kükelhaus,Special Needs School,General Education School System,Municipal,11,75
+2008,"BbS ""O. v. Guericke"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,120,2680
+2008,"BbS ""H. Beims"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,78,1574
+2008,"BbS ""Eike v. Repgow"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,137,2972
+2008,"BbS ""Dr. O. Schlein"" Teilzeit",Vocational School (Part-Time),Vocational School System,Municipal,19,407
+2008,"BbS ""O. v. Guericke"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,16,319
+2008,"BbS ""H. Beims"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,26,489
+2008,"BbS ""Eike v. Repgow"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,23,518
+2008,"BbS ""Dr. O. Schlein"" Vollzeit",Vocational School (Full-Time),Vocational School System,Municipal,46,1001

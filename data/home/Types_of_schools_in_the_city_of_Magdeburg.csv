@@ -1,0 +1,189 @@
+Year,School_Type,School_Category,Schools,Classes,Students
+2023,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,6,52
+2023,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,2,34
+2023,Vocational School (Nursing),Vocational School System,1,33,26
+2023,Vocational School (Part-Time),Vocational School System,4,270,5109
+2023,Vocational School (Full-Time),Vocational School System,4,120,1992
+2023,Special Needs School,General Education School System,10,148,1377
+2023,Community School,General Education School System,9,142,3542
+2023,Primary School,General Education School System,39,409,8784
+2023,Grammar School (Gymnasium),General Education School System,9,290,6965
+2023,Integrated Comprehensive School (IGS),General Education School System,2,84,2033
+2023,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,14,192
+2023,New School,General Education School System,1,13,281
+2023,Secondary School,General Education School System,3,34,787
+2023,Waldorf School,General Education School System,1,17,404
+2022,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,24
+2022,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,2,60
+2022,Vocational School (Nursing),Vocational School System,1,49,35
+2022,Vocational School (Part-Time),Vocational School System,4,270,5119
+2022,Vocational School (Full-Time),Vocational School System,4,121,2117
+2022,Special Needs School,General Education School System,10,147,1333
+2022,Community School,General Education School System,9,138,3217
+2022,Primary School,General Education School System,39,400,8661
+2022,Grammar School (Gymnasium),General Education School System,9,283,6882
+2022,Integrated Comprehensive School (IGS),General Education School System,2,85,1982
+2022,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,6,110
+2022,New School,General Education School System,1,12,267
+2022,Secondary School,General Education School System,3,32,748
+2022,Waldorf School,General Education School System,1,17,403
+2021,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,27
+2021,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,60
+2021,Vocational School (Part-Time),Vocational School System,4,274,5156
+2021,Vocational School (Full-Time),Vocational School System,4,118,2059
+2021,Special Needs School,General Education School System,10,144,1302
+2021,Community School,General Education School System,9,134,3168
+2021,Primary School,General Education School System,39,390,8351
+2021,Grammar School (Gymnasium),General Education School System,9,271,6456
+2021,Integrated Comprehensive School (IGS),General Education School System,2,82,1887
+2021,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,8,124
+2021,New School,General Education School System,1,12,251
+2021,Secondary School,General Education School System,3,31,687
+2021,Waldorf School,General Education School System,1,25,605
+2020,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,26
+2020,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,62
+2020,Vocational School (Part-Time),Vocational School System,4,266,5068
+2020,Vocational School (Full-Time),Vocational School System,4,116,2103
+2020,Special Needs School,General Education School System,10,136,1221
+2020,Community School,General Education School System,9,135,3194
+2020,Primary School,General Education School System,38,379,8078
+2020,Grammar School (Gymnasium),General Education School System,9,256,6274
+2020,Integrated Comprehensive School (IGS),General Education School System,2,78,1883
+2020,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,8,129
+2020,New School,General Education School System,1,12,249
+2020,Secondary School,General Education School System,3,28,649
+2020,Waldorf School,General Education School System,1,25,583
+2019,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,16
+2019,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,62
+2019,Vocational School (Part-Time),Vocational School System,4,272,5147
+2019,Vocational School (Full-Time),Vocational School System,4,122,2271
+2019,Special Needs School,General Education School System,10,127,1152
+2019,Community School,General Education School System,9,134,3196
+2019,Primary School,General Education School System,37,375,7953
+2019,Grammar School (Gymnasium),General Education School System,9,255,6105
+2019,Integrated Comprehensive School (IGS),General Education School System,2,82,1953
+2019,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,8,158
+2019,New School,General Education School System,1,11,228
+2019,Secondary School,General Education School System,3,26,626
+2019,Waldorf School,General Education School System,1,25,583
+2018,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,28
+2018,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,70
+2018,Vocational School (Part-Time),Vocational School System,4,271,5106
+2018,Vocational School (Full-Time),Vocational School System,4,115,2223
+2018,Special Needs School,General Education School System,10,121,1091
+2018,Community School,General Education School System,9,107,2642
+2018,Primary School,General Education School System,36,8021,3943
+2018,Grammar School (Gymnasium),General Education School System,9,246,5896
+2018,Integrated Comprehensive School (IGS),General Education School System,2,83,1993
+2018,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,6,149
+2018,New School,General Education School System,1,11,205
+2018,Secondary School,General Education School System,12,50,1112
+2018,Waldorf School,General Education School System,1,25,581
+2017,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,26
+2017,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,62
+2017,Vocational School (Part-Time),Vocational School System,4,267,4957
+2017,Vocational School (Full-Time),Vocational School System,4,117,2290
+2017,Special Needs School,General Education School System,9,118,1024
+2017,Community School,General Education School System,9,92,2175
+2017,Primary School,General Education School System,36,7766,3893
+2017,Grammar School (Gymnasium),General Education School System,8,239,5783
+2017,Integrated Comprehensive School (IGS),General Education School System,2,83,1974
+2017,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,7,149
+2017,New School,General Education School System,1,10,180
+2017,Secondary School,General Education School System,12,67,1531
+2017,Waldorf School,General Education School System,1,25,585
+2016,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,26
+2016,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,71
+2016,Vocational School (Part-Time),Vocational School System,4,279,4925
+2016,Vocational School (Full-Time),Vocational School System,4,116,2204
+2016,Special Needs School,General Education School System,9,116,1029
+2016,Community School,General Education School System,10,62,1360
+2016,Primary School,General Education School System,36,7279,3604
+2016,Grammar School (Gymnasium),General Education School System,8,235,5724
+2016,Integrated Comprehensive School (IGS),General Education School System,2,81,1969
+2016,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,8,140
+2016,New School,General Education School System,1,8,133
+2016,Secondary School,General Education School System,11,89,1924
+2016,Waldorf School,General Education School System,1,25,574
+2015,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,33
+2015,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,77
+2015,Vocational School (Part-Time),Vocational School System,4,283,4959
+2015,Vocational School (Full-Time),Vocational School System,4,110,2135
+2015,Special Needs School,General Education School System,9,118,1085
+2015,Community School,General Education School System,10,43,924
+2015,Primary School,General Education School System,36,341,6997
+2015,Grammar School (Gymnasium),General Education School System,8,233,5677
+2015,Integrated Comprehensive School (IGS),General Education School System,2,78,1860
+2015,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,9,156
+2015,New School,General Education School System,1,7,113
+2015,Secondary School,General Education School System,11,105,2196
+2015,Waldorf School,General Education School System,1,23,530
+2014,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,32
+2014,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,75
+2014,Vocational School (Part-Time),Vocational School System,4,286,5179
+2014,Vocational School (Full-Time),Vocational School System,4,101,1971
+2014,Special Needs School,General Education School System,9,122,1072
+2014,Community School,General Education School System,10,25,476
+2014,Primary School,General Education School System,36,333,6665
+2014,Grammar School (Gymnasium),General Education School System,8,235,5663
+2014,Integrated Comprehensive School (IGS),General Education School System,2,74,1825
+2014,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,9,161
+2014,New School,General Education School System,1,5,70
+2014,Secondary School,General Education School System,10,105,2136
+2014,Waldorf School,General Education School System,1,21,491
+2013,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,35
+2013,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,4,83
+2013,Vocational School (Part-Time),Vocational School System,4,293,5272
+2013,Vocational School (Full-Time),Vocational School System,4,101,1957
+2013,Special Needs School,General Education School System,10,124,1128
+2013,Primary School,General Education School System,37,331,6448
+2013,Grammar School (Gymnasium),General Education School System,8,232,5590
+2013,Integrated Comprehensive School (IGS),General Education School System,2,70,1682
+2013,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,9,177
+2013,New School,General Education School System,1,3,35
+2013,Secondary School,General Education School System,12,149,3067
+2013,Waldorf School,General Education School System,1,19,431
+2012,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,41
+2012,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,3,68
+2012,Vocational School (Part-Time),Vocational School System,4,298,5383
+2012,Vocational School (Full-Time),Vocational School System,4,104,1980
+2012,Special Needs School,General Education School System,10,125,1124
+2012,Primary School,General Education School System,37,323,6309
+2012,Grammar School (Gymnasium),General Education School System,7,226,5417
+2012,Integrated Comprehensive School (IGS),General Education School System,2,66,1598
+2012,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,9,181
+2012,New School,General Education School System,1,1,12
+2012,Secondary School,General Education School System,12,147,3052
+2012,Waldorf School,General Education School System,1,17,387
+2011,Evening Grammar School,Schools of Second Education Pathway (Adult Education),1,3,38
+2011,Evening Secondary School,Schools of Second Education Pathway (Adult Education),1,5,104
+2011,Vocational School (Part-Time),Vocational School System,4,322,5877
+2011,Vocational School (Full-Time),Vocational School System,4,101,1995
+2011,Special Needs School,General Education School System,10,130,1171
+2011,Primary School,General Education School System,36,323,6127
+2011,Grammar School (Gymnasium),General Education School System,7,216,5183
+2011,Integrated Comprehensive School (IGS),General Education School System,2,68,1652
+2011,Adult Education College (Kolleg),Schools of Second Education Pathway (Adult Education),1,9,189
+2011,Secondary School,General Education School System,12,145,2981
+2011,Waldorf School,General Education School System,1,16,358
+2010,Vocational School (Part-Time),Vocational School System,4,327,6423
+2010,Vocational School (Full-Time),Vocational School System,4,100,2014
+2010,Special Needs School,General Education School System,10,133,1220
+2010,Primary School,General Education School System,37,318,5947
+2010,Grammar School (Gymnasium),General Education School System,7,213,5072
+2010,Integrated Comprehensive School (IGS),General Education School System,2,69,1672
+2010,Secondary School,General Education School System,12,138,2796
+2009,Vocational School (Part-Time),Vocational School System,4,373,7791
+2009,Vocational School (Full-Time),Vocational School System,4,79,1622
+2009,Special Needs School,General Education School System,11,133,1229
+2009,Primary School,General Education School System,37,318,5866
+2009,Grammar School (Gymnasium),General Education School System,7,209,4918
+2009,Integrated Comprehensive School (IGS),General Education School System,2,70,1656
+2009,Secondary School,General Education School System,14,143,2756
+2008,Vocational School (Part-Time),Vocational School System,4,354,7633
+2008,Vocational School (Full-Time),Vocational School System,4,111,2327
+2008,Special Needs School,General Education School System,11,139,1290
+2008,Primary School,General Education School System,37,315,5786
+2008,Grammar School (Gymnasium),General Education School System,7,211,5031
+2008,Integrated Comprehensive School (IGS),General Education School System,2,72,1629
+2008,Secondary School,General Education School System,13,144,2870
